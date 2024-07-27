@@ -11,8 +11,6 @@ This is a simple student database program written in C. The program allows you t
 2. [Usage](#usage)
 3. [Functions](#functions)
 4. [Code Structure](#code-structure)
-5. [Installation](#installation)
-6. [Running the Program](#running-the-program)
 
 ## Features
 - Add new student records.
