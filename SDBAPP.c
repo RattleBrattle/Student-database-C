@@ -14,6 +14,7 @@ int SDB_APP() {
 
         if (userChoice < 1 || userChoice > 9) {
             printf("\nInvalid Choice, please try again!\n");
+            printf("Your Input: ");
             correctChoice = 0;
         } else {
             correctChoice = 1;
